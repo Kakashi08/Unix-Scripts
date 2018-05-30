@@ -8,7 +8,7 @@ It also autostart google chrome by default on startup.
 2. Remote Desktop Client = Remote Desktop Connection provided by windows.
 3. PuTTY for Windows or Windows PowerShell for SSH connection. 
 
-##What does the script do? 
+## What does the script do? 
 The script can be divided into the following parts based on the tasks it performs 
 
 ### [1.][Setting root password]
